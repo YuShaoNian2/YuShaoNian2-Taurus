@@ -17,7 +17,8 @@ int main()
 	}
 	for (int i = 0;i < len;i++) {
 		cout << arr[i] << endl;
-		cout <<"ok了兄弟们，我终于完成云上传了哈哈"<<endl;
 	}
+	cout <<"ok了兄弟们，我终于完成云上传了哈哈"<<endl;
+	system("pause");
 	return 0;
 }
