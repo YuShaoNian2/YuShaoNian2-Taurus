@@ -12,7 +12,7 @@ void bubbleSort(int *arr,int len){
     }
 }
 int main(){
-    int arr [10]{4,3,6,9,1,2,10,8,5,7};
+    int arr [10]{5,8,2,10,7,15,13,11,20,18};
     int len=sizeof(arr)/sizeof(arr[0]);
     bubbleSort(arr,len);
     for (int i=0;i<len;i++){
